@@ -31,4 +31,4 @@
 
 ## 라이선스
 
-[https://github.com/burninghering/WAY_SafeMap/commit/3b34a01ca708f8156f9fc3fb9ae93dc9f2d6b633](MIT LICENSE)
+https://github.com/burninghering/WAY_SafeMap/commit/3b34a01ca708f8156f9fc3fb9ae93dc9f2d6b633
